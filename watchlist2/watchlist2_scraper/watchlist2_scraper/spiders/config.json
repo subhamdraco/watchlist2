@@ -1,0 +1,11 @@
+{
+  "watchlist" : "https://docs.google.com/spreadsheets/d/1W9uBnyp9HHUYmwq5tJvSIBYr1kX6WofJbKq0UNlzAQ4/edit#gid=0",
+  "global_index" : "https://docs.google.com/spreadsheets/d/1gRoosNMksHLSNIj-YcvWC7L4mOBwr5sG4cwCcva2q6o",
+  "NYSE": "https://docs.google.com/spreadsheets/d/10l-bDkh7VdCVtF5VR4r6gLBRv3PKEB6Biz9q4hBeM54/edit#gid=2062238955",
+  "NASDAQ" : "https://docs.google.com/spreadsheets/d/1cmPP66Y1QzSVxLdIq61ekRMyg2Bq5OPOMWpnunE3Slg/edit#gid=65881302",
+  "JKSE" : "https://docs.google.com/spreadsheets/d/1HrvcR6GnIA_g0ZidF5zcpxSNQqHa8OxUb1NEdWfwTfU/edit#gid=2091408974",
+  "CAC" :  "https://docs.google.com/spreadsheets/d/1sfvQYTNCkUtTdsgQjtXacuFDYXnj56VxfqPSlXF6vH0/edit#gid=2091408974",
+  "url" : "https://finance.yahoo.com/calendar/earnings?day=$date&symbol=$stock",
+  "global" : "1gRoosNMksHLSNIj-YcvWC7L4mOBwr5sG4cwCcva2q6o",
+  "ed": "https://docs.google.com/spreadsheets/d/14Uir9nfTRyXZg0uqseoeYEnHF4tk_QI_yyIw2TbBjDs/edit#gid=0"
+}
